@@ -2,8 +2,9 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.pinimg.com/564x/65/28/88/65288883fcf03ff69a63ccd82b9803ce.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/guma2k2/guma2k2/assets/102044008/954e619c-18b6-4a3a-ba99-c3037fd90b0e">
+  <img src="https://github.com/guma2k2/guma2k2/assets/102044008/954e619c-18b6-4a3a-ba99-c3037fd90b0e">
+  ![cute](https://github.com/guma2k2/guma2k2/assets/102044008/954e619c-18b6-4a3a-ba99-c3037fd90b0e)
 
 </picture>
 <!--
