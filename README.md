@@ -3,8 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/guma2k2/guma2k2/assets/102044008/954e619c-18b6-4a3a-ba99-c3037fd90b0e">
-  <img src="https://github.com/guma2k2/guma2k2/assets/102044008/954e619c-18b6-4a3a-ba99-c3037fd90b0e">
-  ![cute](https://github.com/guma2k2/guma2k2/assets/102044008/954e619c-18b6-4a3a-ba99-c3037fd90b0e)
+  
 
 </picture>
 <!--
