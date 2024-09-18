@@ -30,4 +30,10 @@
     <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=guma2k2&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
     <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guma2k2&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+    <p align="center">
+        <img 
+            src="https://github-readme-stats.vercel.app/api?username=guma2k2&count_private=true&show_icons=true&include_all_commits=true" 
+            alt="Thuan Ngo | Stats" 
+        />
+    </p>
 
