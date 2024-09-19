@@ -14,7 +14,7 @@
     <a href="https://github.com/" name="github"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
     <a href="https://docs.microsoft.com/en-us/powershell/" name="windows-powershell"><img src="https://img.icons8.com/color/48/000000/powershell.png"/></a>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,c,postgres,mysql,maven,postman,redis,githubactions,jquery,react&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=java,docker,c,postgres,mysql,maven,postman,redis,githubactions,jquery,react,js&theme=light"/>
   </a>
     
 </p>
